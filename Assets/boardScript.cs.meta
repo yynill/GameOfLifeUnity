@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba93a69fb576f4106badd2a3f82d75da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - outline: {instanceID: 0}
+  - aliveCell1: {instanceID: 0}
+  - aliveCell2: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - deadCell: {fileID: 2032967997914247692, guid: 06247d029ab95474f9089ccb918423ac, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
